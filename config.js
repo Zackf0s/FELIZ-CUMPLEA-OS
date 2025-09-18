@@ -16,7 +16,7 @@ var config = {
     ],
     
     desc: {
-        turn_on: "Hoy es 19 de Septiembre",
+        turn_on: "Hoy es 18 de Septiembre",
         play: "Un año mas en tu vida y un año mas que estas en mi vida",
         bannar_coming: "Gracias por todo lo que me das sin darte cuenta",
         balloons_flying: "¡sos hermosa!",
