@@ -21,8 +21,8 @@ var config = {
         bannar_coming: "Gracias por todo lo que me das sin darte cuenta",
         balloons_flying: "¡sos hermosa!",
         cake_fadein: "apenas 19 años la criatura y ya tenes canas",
-        light_candle: "Esto es un poco conmovedor, dado que nunca pense que llegariamos tan lejos",
-        wish_message: "pero me alegro de haber llegado a este momento",
+        light_candle: "nunca pense que llegariamos tan lejos",
+        wish_message: "pero estoy muy feliz de estar donde estamos",
         story: "donde puedo decir que sos mi hermosa novia!!!"
     },
 
